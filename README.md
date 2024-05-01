@@ -1,6 +1,11 @@
-
-<html lang="en">
-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Changer</title>
+    <link rel = "stylesheet" href = "colorchanger.css">
+</head>
 <body>
      
     <h1>Color Changer</h1>
