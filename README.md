@@ -1,13 +1,11 @@
-
-
 <html>
-<head>
+<head> 
     
     <title>Color Changer</title>
     <link rel = "stylesheet" href = "colorchanger.css">
 </head>
 <body>
-     
+    
     <h1>Color Changer</h1>
 
     <button id = "start" style="width: 60px; height: 20px;">start</button>
